@@ -5,6 +5,9 @@ contributor:
     agent_name: Walsh, Haidee Zack
     gutenberg_agent_id: '55071'
     url: http://www.gutenberg.org/2009/agents/55071
+covers:
+- cover_type: archival
+  image_path: 69047-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Laura Rountree
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69047#The-Tiddly-Winks
 gutenberg_issued: '2022-09-25'
 identifiers:
   gutenberg: '69047'
